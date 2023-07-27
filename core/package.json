@@ -1,0 +1,41 @@
+{
+  "name": "@wyxin/react-component-demo",
+  "version": "1.0.0",
+  "description": "React component demo",
+  "main": "cjs/index.js",
+  "module": "esm/index.js",
+  "homepage": "https://techrookiewyx.github.io/react-component-demo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techrookiewyx/react-component-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "cjs",
+    "esm"
+  ],
+  "keywords": [
+    "component",
+    "react",
+    "react-component",
+    "react-csv",
+    "csv-reader",
+    "react-component-demo",
+    "reader"
+  ],
+  "peerDependencies": {
+    "@babel/runtime": ">=7.10.0",
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@testing-library/react": "^14.0.0",
+    "@types/react-test-renderer": "^18.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-test-renderer": "^18.2.0"
+  }
+}
