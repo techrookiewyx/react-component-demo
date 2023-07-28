@@ -1,2 +1,1 @@
-# react-component-demo
-React 组件实例
+E:/Learn-road/react-component-demo/core/README.md
